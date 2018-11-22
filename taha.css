@@ -1,0 +1,153 @@
+body{ background-color:#110011;
+	height:auto;
+	width: auto;
+	
+}
+.contener{
+	background-color: #182d30;
+	width: 820px;
+	height:750px;
+	align-content: center;
+	margin: 80px;
+}
+.nameMe{
+/*margin: 20x;
+padding: 30px;*/
+	position: relative;
+	border-bottom:2px solid  #51b5a5;
+	height: 200px;
+	font-size: 30px;
+	font-weight: 900;
+	
+	
+}
+.nameMe img{
+	border-radius: 50%;
+	margin-right: 40px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+
+	margin-left: 30px;
+	
+}
+.nameMe .name{
+	position: absolute;
+	line-height: 140px;
+	display: inline-block;
+	color: #F1523F;
+	font-size: 40px;
+	text-transform:capitalize;
+	font-family: monospace;
+	margin: 30px;
+}
+.Training{
+position: absolute;
+	  left:450px;
+    top: 130px;
+	
+	display: inline-block;
+	color: #F1523F;
+	font-size:20px;
+	text-transform:capitalize;
+	font-family:inherit ;
+	
+}
+
+
+
+
+.left_page{
+	
+     display:inline-block;
+	width: 30%;
+	height: 450px;
+	
+	border-right: 2px solid  #F1523F;
+	margin-top: 20px;
+	color: #F1523F;
+	padding-left: 40px;
+	padding-top: 15px;
+	font-size: 30px;
+	font-weight: 700;
+	text-transform: uppercase;
+	
+	
+}
+.left_page p{
+	margin-bottom: 50px;
+}
+.Right_page{
+	float: right;
+ font-family: inherit;
+	color: #E1E4E4;
+	display: inline;
+	width: 62%;
+	margin-top: 40px;
+	
+	padding-left:20px;
+	padding-top: 30px;
+	
+
+	
+}
+
+.skills p,.langugeas p{
+	margin: 0 ;
+	float: right;
+	display: inline;
+
+	color: #f1f1ee;
+	
+	
+}
+.skills p span,.langugeas p span{
+	
+	color: red;
+}
+.Right_page .contact p{
+
+}
+
+.Right_page li{
+	width: 44%;
+	list-style-type: none;
+	
+}
+
+.skills hr, hr,.about_me hr,.contact hr{
+	
+	width:400px;
+	padding-left: 10px;
+	 
+	
+    background-color: #F1523F;
+}
+.about_me,.edcution,.skills{
+	padding-right: 27px;
+	text-transform: capitalize;
+}
+a{
+	text-decoration: none;
+	font-family:inherit;
+	font-size: 30px;
+	align-content: center;
+	color: #F1523F;
+	padding-left:500px;
+	padding-top: 20px;
+	
+}
+.singer{
+	font-family: sans-serif;
+	font-kerning: normal;
+	font-size: 15px;
+	text-align: left;
+	padding-left: 20px;
+	padding-bottom: 15px;
+	margin: 0px;
+	color: darkgray;
+	padding-top: -15;
+}
+.contact{
+	font-size: 20px;
+}
+
